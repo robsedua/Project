@@ -1,7 +1,4 @@
 {
-    "titulo": "Atualização V2.3.1",
-    "data": "19/07/2025",
-    {
   "titulo": "Atualização v2.3.1 - Teste Extenso",
   "data": "19/07/2025",
   "changelog": "- Correção de bugs importantes no sistema de conexão.\n\
@@ -37,7 +34,4 @@
 - Atualização dos scripts de inicialização para maior velocidade.\n\
 - Implementação de sistema de logs para análise pós-mortem.\n\
 - Melhorias gerais na usabilidade e experiência do usuário."
-}
-
-    
 }
